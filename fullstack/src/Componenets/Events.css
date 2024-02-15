@@ -1,0 +1,26 @@
+/* EventComponent.css */
+
+.event-container {
+  .event-container {
+    /* Add your background image URL here */
+    background-image: url('https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&w=600');
+    /* Set background size and other properties as needed */
+    background-size: cover;
+    background-position: center;
+    /* Add other styles as needed */
+  }
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: aqua;
+  }
+  
+  .event-image {
+    max-width: 200px; /* Set your preferred maximum width */
+    width: 100%;
+    height: auto;
+    margin-top: 10px; /* Add some spacing */
+  }
+  
+  .event-description {
+    margin-top: 10px; /* Add some spacing */
+  }
